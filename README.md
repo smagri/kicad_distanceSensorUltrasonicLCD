@@ -9,6 +9,8 @@ enclosure has yet been made.
 
 PCB was manufactured by pcbway.com.
 
+The PCB design could  do with a revison to pretty it up  and make it a
+more sound design.
 
 
 It was  originally produced to  be part  of the illabunda  eco village
