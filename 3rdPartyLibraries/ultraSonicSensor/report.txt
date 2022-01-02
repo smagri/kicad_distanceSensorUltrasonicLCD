@@ -1,0 +1,11 @@
+Info: Backing up file "/lu1/smagri/proj/kicad/testArduinoProject/sym-lib-table" to file "/lu1/smagri/proj/kicad/testArduinoProject/rescue-backup/sym-lib-table-2021-08-02-10-28-03".
+Info: Backing up file "/lu1/smagri/proj/kicad/testArduinoProject/testArduino_Pro_Mini.lib.sch" to file "/lu1/smagri/proj/kicad/testArduinoProject/rescue-backup/testArduino_Pro_Mini.lib-2021-08-02-10-28-03.sch".
+Info: Backing up file "/lu1/smagri/proj/kicad/testArduinoProject/testArduino_Pro_Mini.lib.pro" to file "/lu1/smagri/proj/kicad/testArduinoProject/rescue-backup/testArduino_Pro_Mini.lib-2021-08-02-10-28-03.pro".
+Info: Backing up file "/lu1/smagri/proj/kicad/testArduinoProject/testArduino_Pro_Mini.lib-cache.lib" to file "/lu1/smagri/proj/kicad/testArduinoProject/rescue-backup/testArduino_Pro_Mini.lib-cache-2021-08-02-10-28-03.lib".
+Info: Backing up file "/lu1/smagri/proj/kicad/testArduinoProject/testArduino_Pro_Mini.lib-rescue.lib" to file "/lu1/smagri/proj/kicad/testArduinoProject/rescue-backup/testArduino_Pro_Mini.lib-rescue-2021-08-02-10-28-03.lib".
+Info: Backing up file "/lu1/smagri/proj/kicad/testArduinoProject/testArduino_Pro_Mini.lib-rescue.dcm" to file "/lu1/smagri/proj/kicad/testArduinoProject/rescue-backup/testArduino_Pro_Mini.lib-rescue-2021-08-02-10-28-03.dcm".
+Info: Adding library "testArduino_Pro_Mini.lib-rescue", file "${KIPRJMOD}/testArduino_Pro_Mini.lib-rescue.lib" to project symbol library table.
+Symbol "Arduino_Pro_Mini" mapped to symbol library "testArduino_Pro_Mini.lib-rescue".
+Symbol "Arduino_Pro_Mini_Sparkfun" mapped to symbol library "testArduino_Pro_Mini.lib-rescue".
+Symbol "ARDUPROMINI" mapped to symbol library "testArduino_Pro_Mini.lib-rescue".
+Info: Symbol library table mapping complete!

@@ -1,0 +1,31 @@
+Drill report for /lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/distanceSensorUltrasonicLCD.kicad_pcb
+Created on Mon 23 Aug 2021 14:52:46 AEST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'distanceSensorUltrasonicLCD-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.600mm  0.0236"  (4 holes)
+    T2  0.760mm  0.0299"  (3 holes)
+    T3  0.762mm  0.0300"  (30 holes)
+    T4  1.000mm  0.0394"  (2 holes)
+    T5  1.020mm  0.0402"  (4 holes)
+    T6  1.200mm  0.0472"  (16 holes)
+    T7  2.400mm  0.0945"  (2 holes)
+    T8  2.500mm  0.0984"  (4 holes)
+
+    Total plated holes count 65
+
+
+Drill file 'distanceSensorUltrasonicLCD-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.600mm  0.1024"  (3 holes)
+    T2  3.200mm  0.1260"  (4 holes)
+
+    Total unplated holes count 7

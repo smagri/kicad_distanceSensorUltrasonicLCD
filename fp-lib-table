@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name XCVR_HC_SR04)(type KiCad)(uri /usr/share/kicad/modules)(options "")(descr ""))
+  (lib (name Displays)(type KiCad)(uri /usr/share/kicad/modules/Display.pretty)(options "")(descr ""))
+)

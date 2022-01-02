@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name waterLevelSensor-rescue)(type Legacy)(uri ${KIPRJMOD}/waterLevelSensor-rescue.lib)(options "")(descr ""))
+  (lib (name ArduProMiniTKB)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/ArduinoProMini/ArduProMiniTKB.lib)(options "")(descr ""))
+  (lib (name HC-SR04)(type Legacy)(uri /lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/3rdPartyLibraries/ultraSonicSensor/HC-SR04.lib)(options "")(descr ""))
+  (lib (name distanceSensorUltrasonicLCD-rescue)(type Legacy)(uri ${KIPRJMOD}/distanceSensorUltrasonicLCD-rescue.lib)(options "")(descr ""))
+)

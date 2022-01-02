@@ -1,0 +1,10 @@
+Plot file "/lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/gerber/distanceSensorUltrasonicLCD-F_Cu.gbr" created.
+Plot file "/lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/gerber/distanceSensorUltrasonicLCD-B_Cu.gbr" created.
+Plot file "/lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/gerber/distanceSensorUltrasonicLCD-F_Paste.gbr" created.
+Plot file "/lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/gerber/distanceSensorUltrasonicLCD-B_Paste.gbr" created.
+Plot file "/lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/gerber/distanceSensorUltrasonicLCD-F_SilkS.gbr" created.
+Plot file "/lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/gerber/distanceSensorUltrasonicLCD-B_SilkS.gbr" created.
+Plot file "/lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/gerber/distanceSensorUltrasonicLCD-F_Mask.gbr" created.
+Plot file "/lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/gerber/distanceSensorUltrasonicLCD-B_Mask.gbr" created.
+Plot file "/lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/gerber/distanceSensorUltrasonicLCD-Edge_Cuts.gbr" created.
+Create Gerber job file "/lu1/smagri/proj/distanceSensor/distanceSensorUltrasonicLCD/gerber/distanceSensorUltrasonicLCD-job.gbrjob"
